@@ -18,3 +18,8 @@ a></p>
 </footer>
 </body>
 </html>
+
+<button onclick="window.open('test.html','_blank');"
+type="button">test page</button>
+Formularz
+Formularz HTML służy do zbierania danych wejściowych użytkownika. Dane 
