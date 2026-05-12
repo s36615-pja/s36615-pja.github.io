@@ -19,7 +19,12 @@ a></p>
 </body>
 </html>
 
-<button onclick="window.open('test.html','_blank');"
-type="button">test page</button>
-
-<a href="https://pja.edu.pl">
+.button {
+ border: none;
+ color: white;
+ padding: 16px 32px;
+ text-align: center;
+ text-decoration: none;
+ font-size: 16px;
+ margin: 4px 2px;
+ transition-duration: 0.4s;
