@@ -19,6 +19,6 @@ a></p>
 </body>
 </html>
 
-<button: focus ="window.open('test.html','_blank');"
+<button onclick="window.open('test.html','_blank');"
 type="button">test page</button>
 
