@@ -22,3 +22,4 @@ a></p>
 <button onclick="window.open('test.html','_blank');"
 type="button">test page</button>
 
+<a href="https://pja.edu.pl">
