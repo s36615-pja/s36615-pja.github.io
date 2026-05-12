@@ -19,13 +19,9 @@ a></p>
 </body>
 </html>
 
-.button {
- border: none;
- color: white;
- padding: 16px 32px;
- text-align: center;
- text-decoration: none;
- font-size: 16px;
- margin: 4px 2px;
- transition-duration: 0.4s;
-}
+<nav>
+ <a href="/html/">HTML</a> |
+ <a href="/css/">CSS</a> |
+ <a href="/js/">JavaScript</a> |
+ <a href="/python/">Python</a>
+</nav
