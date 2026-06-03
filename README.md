@@ -8,7 +8,7 @@
 <header>
  <h1>HTML Tutorial</h1>
 </header>
- <h1>Witamy!</h1>
+ <h1>SMOKI</h1>
  <p>W hotelu na przedmieściach.</p>
 
 href="mailto:pz@pjwstk.edu.pl">jakistamlink</
