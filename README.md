@@ -10,9 +10,7 @@
 </header>
  <h1>Witamy!</h1>
  <p>W hotelu na przedmieściach.</p>
-<footer>
- <p>Author: MR</p>
- <p><a
+
 href="mailto:pz@pjwstk.edu.pl">jakistamlink</
 a></p>
 </footer>
@@ -26,3 +24,6 @@ a></p>
  <a href="/python/">Python</a>
 </nav
 
+<footer>
+ <p>Author: MR</p>
+ <p><a
