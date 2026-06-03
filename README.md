@@ -26,9 +26,3 @@ a></p>
  <a href="/python/">Python</a>
 </nav
 
-<body>
- <button class="button button1">
-Green</button>
- <button class="button button2">
-Blue</button>
-</body>
