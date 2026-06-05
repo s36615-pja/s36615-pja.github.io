@@ -23,14 +23,10 @@
 
 <main class="content">
     <section>
-        <h2>O projekcie</h2>
+        <h2>Wstęp</h2>
         <p>
-            Ta strona to proste bestiarium smoków – znajdziesz tu opis kilku popularnych gatunków,
-            ich cechy, legendy oraz ilustracje.
-        </p>
-        <p>
-            Projekt powstał w ramach zajęć z tworzenia stron WWW i ma pokazać podstawy HTML i CSS
-            w praktycznym przykładzie.
+            Odkryj świat smoków – znajdziesz tu opis kilku popularnych gatunków,
+            ich cechy, legendy.
         </p>
     </section>
 
@@ -42,6 +38,7 @@
             <li>Krótki opis legend i cech charakterystycznych.</li>
         </ul>
     </section>
+    
 </main>
 
 <footer class="site-footer">
