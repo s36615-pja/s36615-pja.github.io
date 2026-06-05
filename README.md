@@ -13,7 +13,8 @@
     font-size: 3rem;
     letter-spacing: 2px;
     margin-bottom: 20px;
-}>Smoczy Bestiariusz</h1>
+}
+            >Smoczy Bestiariusz</h1>
         <p>Poznaj najciekawsze gatunki smoków: od klasycznych europejskich po majestatyczne smoki wschodu.</p>
         <a href="gatunki.html" class="btn-primary">Poznaj gatunki</a>
     </div>
