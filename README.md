@@ -7,6 +7,10 @@
 </head>
 <body>
 
+body {
+    background-color: #050816;
+    color: #f5f5f5;
+}
 
 <h1>Smocze Bestiarium</h1>
 <p>Witaj w świecie smoków.</p>
