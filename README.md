@@ -5,7 +5,9 @@
     <title>Smoczy Bestiariusz</title>
     <link rel="stylesheet" href="style.css">
 </head>
-<body>
+<body {
+    background-color: red;
+}>
 
 <header class="hero">
     <div class="hero-content">
