@@ -5,7 +5,12 @@
     <title>Smoczy Bestiariusz</title>
     <link rel="stylesheet" href="style.css">
 </head>
-<body>
+<body {
+    font-family: Arial, sans-serif;
+    background-color: #050816;
+    color: #f5f5f5;
+    line-height: 1.6;
+}>
 
 <header class="hero">
     <div class="hero-content">
