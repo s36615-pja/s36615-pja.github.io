@@ -7,6 +7,13 @@
 </head>
 <body>
 
+
+<h1>Smocze Bestiarium</h1>
+<p>Witaj w świecie smoków.</p>
+<a href="gatunki.html">Poznaj gatunki</a>
+
+
+
 <header class="hero">
     <div class="hero-content">
         <h1>Smoczy Bestiariusz</h1>
