@@ -5,20 +5,15 @@
     <title>Smoczy Bestiariusz</title>
     <link rel="stylesheet" href="style.css">
 </head>
-<body {
-    font-family: Arial, sans-serif;
-    background-color: #050816;
-    color: #f5f5f5;
-    line-height: 1.6;
-}>
+<body>
 
 <header class="hero">
     <div class="hero-content">
-        <h1 .hero-content h1 {
-    font-size: 3rem;
-    letter-spacing: 2px;
-    margin-bottom: 20px;
-}
+        <h1 h1 {
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #7bdcff;
+}>
             >Smoczy Bestiariusz</h1>
         <p>Poznaj najciekawsze gatunki smoków: od klasycznych europejskich po majestatyczne smoki wschodu.</p>
         <a href="gatunki.html" class="btn-primary">Poznaj gatunki</a>
