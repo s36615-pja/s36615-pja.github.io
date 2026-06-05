@@ -10,7 +10,7 @@
 <header class="hero">
     <div class="hero-content">
         <h1>Smocze Bestiarium</h1>
-        <p>Poznaj najciekawsze gatunki smoków: od klasycznych europejskich po majestatyczne smoki wschodu.</p>
+        <p>Poznaj świat smoków: od klasycznych europejskich po majestatyczne smoki wschodu.</p>
         <a href="gatunki.html" class="btn-primary">Poznaj gatunki</a>
     </div>
 </header>
