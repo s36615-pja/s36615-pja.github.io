@@ -8,6 +8,13 @@
 <body>
 
 <header class="hero">
+    
+    min-height: 60vh;
+    background-color: #050816;
+
+</header>
+
+<header class="hero">
     <div class="hero-content">
         <h1>Smoczy Bestiariusz</h1>
         <p>Poznaj świat smoków: od klasycznych europejskich po majestatyczne smoki wschodu.</p>
