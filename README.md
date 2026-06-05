@@ -9,7 +9,7 @@
  <h1>HTML Tutorial</h1>
 </header>
  <h1>SMOKI</h1>
- <p>W hotelu na przedmieściach.</p>
+ <p>Poznaj bliżej świat smoków.</p>
 
 href="mailto:pz@pjwstk.edu.pl">jakistamlink</
 a></p>
