@@ -9,8 +9,7 @@
 
 <header class="hero">
     <div class="hero-content">
-     <h1> Smoczy Bestiariusz</h1>
-        h1 { color: #7bdcff; }
+     <h1 h1 { color: #7bdcff; }> Smoczy Bestiariusz</h1>
         <p>Poznaj najciekawsze gatunki smoków: od klasycznych europejskich po majestatyczne smoki wschodu.</p>
         <a href="gatunki.html" class="btn-primary">Poznaj gatunki</a>
     </div>
