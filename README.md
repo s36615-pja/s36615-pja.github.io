@@ -2,24 +2,15 @@
 <html lang="pl">
 <head>
     <meta charset="UTF-8">
-    <title>Smoczy Bestiariusz</title>
+    <title>Smocze Bestiarium</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-body {
-    background-color: #050816;
-    color: #f5f5f5;
-}
-
-
-
-
 <header class="hero">
-    <a href="gatunki.html">Poznaj gatunki</a>
     <div class="hero-content">
-        <h1>Smoczy Bestiariusz</h1>
-        <p>Poznaj świat smoków: od klasycznych europejskich po majestatyczne smoki wschodu.</p>
+        <h1>Smocze Bestiarium</h1>
+        <p>Poznaj najciekawsze gatunki smoków: od klasycznych europejskich po majestatyczne smoki wschodu.</p>
         <a href="gatunki.html" class="btn-primary">Poznaj gatunki</a>
     </div>
 </header>
@@ -28,21 +19,6 @@ body {
     <a href="index.html">Strona główna</a>
     <a href="gatunki.html">Gatunki smoków</a>
     <a href="kontakt.html">Kontakt</a>
-    .main-nav {
-    display: flex;
-    justify-content: center;
-    gap: 30px;
-    padding: 20px;
-    background-color: #050816;
-    border-top: 1px solid #222;
-    border-bottom: 1px solid #222;
-}
-
-.main-nav a {
-    color: #f5f5f5;
-    text-decoration: none;
-    font-weight: bold;
-}
 </nav>
 
 <main class="content">
