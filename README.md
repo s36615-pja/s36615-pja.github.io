@@ -9,8 +9,10 @@
 
 <header class="hero">
     
+  .hero {
     min-height: 60vh;
     background-color: #050816;
+}
 
 </header>
 
