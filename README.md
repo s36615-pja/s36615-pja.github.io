@@ -13,7 +13,6 @@
         <p>Poznaj najciekawsze gatunki smoków: od klasycznych europejskich po majestatyczne smoki wschodu.</p>
         <a href="gatunki.html" class="btn-primary">Poznaj gatunki</a>
     </div>
-    
     .hero {
     min-height: 60vh;
     background-image: linear-gradient(to bottom right, #050816, #1b2144);
