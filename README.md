@@ -12,9 +12,7 @@
         <h1>Smoczy Bestiariusz</h1>
         <p>Poznaj najciekawsze gatunki smoków: od klasycznych europejskich po majestatyczne smoki wschodu.</p>
         <a href="gatunki.html" class="btn-primary">Poznaj gatunki</a>
-    </div>
-
-.hero {
+        .hero {
     min-height: 60vh;
     background-image: linear-gradient(to bottom right, #050816, #1b2144);
     display: flex;
@@ -34,6 +32,7 @@
     max-width: 600px;
     margin: 0 auto 30px auto;
 }
+    </div>
     
 </header>
 
