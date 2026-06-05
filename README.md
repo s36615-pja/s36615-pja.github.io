@@ -13,11 +13,12 @@ body {
 }
 
 
-<a href="gatunki.html">Poznaj gatunki</a>
+
 
 
 
 <header class="hero">
+    <a href="gatunki.html">Poznaj gatunki</a>
     <div class="hero-content">
         <h1>Smoczy Bestiariusz</h1>
         <p>Poznaj świat smoków: od klasycznych europejskich po majestatyczne smoki wschodu.</p>
