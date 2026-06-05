@@ -1,29 +1,52 @@
 <!DOCTYPE html>
-<html lang="pol">
+<html lang="pl">
 <head>
- <title>A Meaningful Page Title</title>
- <meta name="description" content="Web tutorials">
+    <meta charset="UTF-8">
+    <title>Smocze Bestiarium</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<header>
- <h1>HTML Tutorial</h1>
-</header>
- <h1>SMOKI</h1>
- <p>Poznaj bliżej świat smoków.</p>
 
-href="mailto:pz@pjwstk.edu.pl">jakistamlink</
-a></p>
+<header class="hero">
+    <div class="hero-content">
+        <h1>Smocze Bestiarium</h1>
+        <p>Poznaj najciekawsze gatunki smoków: od klasycznych europejskich po majestatyczne smoki wschodu.</p>
+        <a href="gatunki.html" class="btn-primary">Poznaj gatunki</a>
+    </div>
+</header>
+
+<nav class="main-nav">
+    <a href="index.html">Strona główna</a>
+    <a href="gatunki.html">Gatunki smoków</a>
+    <a href="kontakt.html">Kontakt</a>
+</nav>
+
+<main class="content">
+    <section>
+        <h2>O projekcie</h2>
+        <p>
+            Ta strona to proste bestiarium smoków – znajdziesz tu opis kilku popularnych gatunków,
+            ich cechy, legendy oraz ilustracje.
+        </p>
+        <p>
+            Projekt powstał w ramach zajęć z tworzenia stron WWW i ma pokazać podstawy HTML i CSS
+            w praktycznym przykładzie.
+        </p>
+    </section>
+
+    <section>
+        <h2>Co znajdziesz na stronie?</h2>
+        <ul>
+            <li><strong>Gatunki smoków</strong> – podział na smoki europejskie, azjatyckie i fantastyczne.</li>
+            <li><em>Ilustracje</em> smoków z różnych źródeł (lokalne pliki i zewnętrzne URL).</li>
+            <li>Krótki opis legend i cech charakterystycznych.</li>
+        </ul>
+    </section>
+</main>
+
+<footer class="site-footer">
+    <p>Autor: Mia Robert, nr studenta: 123456</p>
 </footer>
+
 </body>
 </html>
-
-<nav>
- <a href="/html/">HTML</a> |
- <a href="/css/">CSS</a> |
- <a href="/js/">JavaScript</a> |
- <a href="/python/">Python</a>
-</nav
-
-<footer>
- <p>Author: MR</p>
- <p><a
