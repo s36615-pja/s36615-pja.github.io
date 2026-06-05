@@ -15,8 +15,6 @@ body {
 
 
 
-
-
 <header class="hero">
     <a href="gatunki.html">Poznaj gatunki</a>
     <div class="hero-content">
@@ -30,6 +28,21 @@ body {
     <a href="index.html">Strona główna</a>
     <a href="gatunki.html">Gatunki smoków</a>
     <a href="kontakt.html">Kontakt</a>
+    .main-nav {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 20px;
+    background-color: #050816;
+    border-top: 1px solid #222;
+    border-bottom: 1px solid #222;
+}
+
+.main-nav a {
+    color: #f5f5f5;
+    text-decoration: none;
+    font-weight: bold;
+}
 </nav>
 
 <main class="content">
