@@ -2,14 +2,14 @@
 <html lang="pl">
 <head>
     <meta charset="UTF-8">
-    <title>Smocze Bestiarium</title>
+    <title>Smoczy Bestiariusz</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
 <header class="hero">
     <div class="hero-content">
-        <h1>Smocze Bestiarium</h1>
+        <h1>Smoczy Bestiariusz</h1>
         <p>Poznaj najciekawsze gatunki smoków: od klasycznych europejskich po majestatyczne smoki wschodu.</p>
         <a href="gatunki.html" class="btn-primary">Poznaj gatunki</a>
     </div>
