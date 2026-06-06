@@ -29,8 +29,7 @@
             Smok to mityczne stworzenie występujące w folklorze kultur na całym świecie. Ma kształt węża i często posiada cechy zaczerpnięte od różnych zwierząt, takie jak skrzydła i pazury. W niemal wszystkich kulturach jest postrzegany jako potężne i budzące grozę stworzenie.
         </p>
     </section>
-
-    <img src="pobrane(1).jpg" alt="smok">
+ <img src="pobrane(1).jpg" alt="smok">
 
     <section>
         <h2>Co znajdziesz na stronie?</h2>
