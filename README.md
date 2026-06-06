@@ -26,7 +26,7 @@
     <section>
         <h2>CZYM SĄ SMOKI?</h2>
         <p>
-            Smok to mityczne stworzenie występujące w folklorze kultur na całym świecie. Ma kształt węża i często posiada cechy zaczerpnięte od różnych zwierząt, takie jak skrzydła i pazury.[1] W niemal wszystkich kulturach jest postrzegany jako potężne i budzące grozę stworzenie.
+            Smok to mityczne stworzenie występujące w folklorze kultur na całym świecie. Ma kształt węża i często posiada cechy zaczerpnięte od różnych zwierząt, takie jak skrzydła i pazury. W niemal wszystkich kulturach jest postrzegany jako potężne i budzące grozę stworzenie.
         </p>
     </section>
 
