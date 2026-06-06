@@ -10,7 +10,7 @@
 <header class="hero">
     <div class="hero-content">
      <h1 h1 { color: #7bdcff; }> Smoczy Bestiariusz</h1>
-        <p>Poznaj najciekawsze gatunki smoków: od klasycznych europejskich po majestatyczne smoki wschodu.</p>
+        <p>Poznaj świat smoków: od klasycznych europejskich po majestatyczne smoki wschodu.</p>
         <a href="gatunki.html" class="btn-primary">Poznaj gatunki</a>
     </div>
 
@@ -24,10 +24,9 @@
 
 <main class="content">
     <section>
-        <h2>Wstęp</h2>
+        <h2>CZYM SĄ SMOKI?</h2>
         <p>
-            Odkryj świat smoków – znajdziesz tu opis kilku popularnych gatunków,
-            ich cechy, legendy.
+            Smok to mityczne stworzenie występujące w folklorze kultur na całym świecie. Ma kształt węża i często posiada cechy zaczerpnięte od różnych zwierząt, takie jak skrzydła i pazury.[1] W niemal wszystkich kulturach jest postrzegany jako potężne i budzące grozę stworzenie.
         </p>
     </section>
 
