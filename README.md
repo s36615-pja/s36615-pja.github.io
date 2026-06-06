@@ -30,6 +30,8 @@
         </p>
     </section>
 
+    <img src="pobrane(1).jpg" alt="smok">
+
     <section>
         <h2>Co znajdziesz na stronie?</h2>
         <ul>
