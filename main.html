@@ -18,6 +18,7 @@
 
 <nav class="main-nav">
     <a href="index.html">Strona główna</a>
+    <a href="legendy.html">Legendy</a>
     <a href="gatunki.html">Gatunki smoków</a>
     <a href="kontakt.html">Kontakt</a>
 </nav>
@@ -32,10 +33,10 @@
  <img src="pobrane(1).jpg" alt="smok">
 
     <section>
-        <h2>Co znajdziesz na stronie?</h2>
+        <h2>Czego się dowiesz?</h2>
         <ul>
             <li><strong>Gatunki smoków</strong> – podział na smoki europejskie, azjatyckie i fantastyczne.</li>
-            <li><em>Ilustracje</em> smoków z różnych źródeł (lokalne pliki i zewnętrzne URL).</li>
+            <li><em>Ilustracje</em> smoków z różnych źródeł.</li>
             <li>Krótki opis legend i cech charakterystycznych.</li>
         </ul>
     </section>
