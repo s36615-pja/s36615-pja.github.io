@@ -27,7 +27,7 @@
     <section>
         <h2>CZYM SĄ SMOKI?</h2>
         <p>
-            Smok to mityczne stworzenie występujące w folklorze kultur na całym świecie. Ma kształt węża i często posiada cechy zaczerpnięte od różnych zwierząt, takie jak skrzydła i pazury. W niemal wszystkich kulturach jest postrzegany jako potężne i budzące grozę stworzenie.
+            Smok to mityczne stworzenie występujące w folklorze kultur na całym świecie. Ma kształt węża i często posiada cechy zaczerpnięte od różnych zwierząt, takie jak skrzydła i pazury. W niemal wszystkich kulturach jest postrzegany jako potężne i budzące grozę stworzenie. Istoty przypominające smoki pojawiają się w starożytnej sztuce Mezopotamii, gdzie mogły być wrogie lub dobroczynne. W Azji Wschodniej smoki były zazwyczaj postrzegane jako istoty pozytywne. Uważano, że chińskie smoki rządzą deszczem, morzem i innymi formami wody, a od czasów dynastii Han były symbolami władzy cesarskiej. Starożytne greckie drakonty były dużymi wężami obdarzonymi nadprzyrodzonymi cechami; w mitach pokonywali je bohaterowie lub bogowie, podczas gdy w kulcie były łagodnymi postaciami kojarzonymi z uzdrawianiem i bogactwem. W tradycji zachodniej smoki przedstawiano jako ziejące ogniem ucieleśnienia zła, kojarzone ze śmiercią.
         </p>
     </section>
  <img src="pobrane(1).jpg" alt="smok">
