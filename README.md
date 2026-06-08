@@ -9,7 +9,7 @@
 
 <header class="hero">
     <div class="hero-content">
-     <h1 h1 { color: #7bdcff; }> Smoczy Bestiariusz</h1>
+     <h1 h1 { color: #7bdcff; }> SMOCZY BESTIARIUSZ</h1>
         <p>Poznaj świat smoków: od klasycznych europejskich po majestatyczne smoki wschodu.</p>
         <a href="gatunki.html" class="btn-primary">Poznaj gatunki</a>
     </div>
@@ -18,8 +18,8 @@
 
 <nav class="main-nav">
     <a href="index.html">Strona główna</a>
-    <a href="legendy.html">Legendy</a>
     <a href="gatunki.html">Gatunki smoków</a>
+    <a href="legendy.html">Legendy</a>
     <a href="kontakt.html">Kontakt</a>
 </nav>
 
@@ -30,21 +30,23 @@
             Smok to mityczne stworzenie występujące w folklorze kultur na całym świecie. Ma kształt węża i często posiada cechy zaczerpnięte od różnych zwierząt, takie jak skrzydła i pazury. W niemal wszystkich kulturach jest postrzegany jako potężne i budzące grozę stworzenie. Istoty przypominające smoki pojawiają się w starożytnej sztuce Mezopotamii, gdzie mogły być wrogie lub dobroczynne. W Azji Wschodniej smoki były zazwyczaj postrzegane jako istoty pozytywne. Uważano, że chińskie smoki rządzą deszczem, morzem i innymi formami wody, a od czasów dynastii Han były symbolami władzy cesarskiej. Starożytne greckie drakonty były dużymi wężami obdarzonymi nadprzyrodzonymi cechami; w mitach pokonywali je bohaterowie lub bogowie, podczas gdy w kulcie były łagodnymi postaciami kojarzonymi z uzdrawianiem i bogactwem. W tradycji zachodniej smoki przedstawiano jako ziejące ogniem ucieleśnienia zła, kojarzone ze śmiercią.
         </p>
     </section>
- <img src="pobrane(1).jpg" alt="smok">
+    <p align="center">
+ <img src="https://i.pinimg.com/1200x/cd/25/ba/cd25ba5f0db327979faec704a283ae7c.jpg" alt="smok">
+ </p>
 
     <section>
-        <h2>Czego się dowiesz?</h2>
+        <h2>Co tu znajdziesz?</h2>
         <ul>
-            <li><strong>Gatunki smoków</strong> – podział na smoki europejskie, azjatyckie i fantastyczne.</li>
-            <li><em>Ilustracje</em> smoków z różnych źródeł.</li>
-            <li>Krótki opis legend i cech charakterystycznych.</li>
+            <li>Gatunki smoków – podział na smoki europejskie, azjatyckie, wywerny i inne.</li>
+            <li>Poznasz wspaniałe legendy.</li>
+            <li>Możliwość wysłania prywatniej wiadomości, aby dostać własnego smoka.</li>
         </ul>
     </section>
     
 </main>
 
 <footer class="site-footer">
-    <p>Autor: Mia Robert, nr studenta: 123456</p>
+    <p>Autor: Mia Robert, nr studenta: s36615</p>
 </footer>
 
 </body>
